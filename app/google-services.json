@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "924934636551",
+    "firebase_url": "https://model-cirrus-228510.firebaseio.com",
+    "project_id": "model-cirrus-228510",
+    "storage_bucket": "model-cirrus-228510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924934636551:android:591d6f216a368cce",
+        "android_client_info": {
+          "package_name": "com.max.def.translationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924934636551-1sdi06ru5tmlg6hgajhmak5aavbill2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.max.def.translationapp",
+            "certificate_hash": "19a3b614af4b0e3f5c46a3566d000946ee624024"
+          }
+        },
+        {
+          "client_id": "924934636551-7kpj6prlrarpp5r5dcbbljtp5sv6enu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjKjUu6isf09ZDltv-1M09SchrYYyn444"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
